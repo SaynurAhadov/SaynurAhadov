@@ -15,7 +15,7 @@
 
 - :seedling: Учусь в школе SkillFactory на направлении **"Инженер по ручному тестированию"**
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/saynur_vici) 
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-saynur_vici-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/saynur_vici) 
 
 ---
 <!---
