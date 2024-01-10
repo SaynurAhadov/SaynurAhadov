@@ -23,9 +23,9 @@
 
 - :seedling: Учусь в школе SkillFactory на направлении **"Инженер по ручному тестированию"**
 
+- 👯 I’m looking to collaborate on in testing mobile applications 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=d&show_icons=true)  
 
 <!---
 SaynurAhadov/SaynurAhadov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
