@@ -23,7 +23,7 @@
 
 - :seedling: Учусь в школе SkillFactory на направлении **"Инженер по ручному тестированию"**
 
-- 👯 I’m looking to collaborate on in testing mobile applications 
+- :man_technologist: I’m looking to collaborate on in testing mobile applications 
 ---
 
 
