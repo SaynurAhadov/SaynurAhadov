@@ -4,7 +4,9 @@
 ---
 
 [![Telegram Badge](https://img.shields.io/badge/-saynur_vici-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/saynur_vici) 
+
 [![Gmail Badge](https://img.shields.io/badge/-saynurahad-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:saynurahad@gmail.com)](mailto:saynurahad@gmail.com) 
+
 [![Instagram Badge](https://img.shields.io/badge/-@saynur_vici-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/saynur_vici)](https://instagram.com/saynur_vici)
 
 ---
