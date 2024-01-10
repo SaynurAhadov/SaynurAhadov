@@ -25,7 +25,7 @@
   
 ---
 
-[![Ashutosh's github activity graph]http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaynurAhadov&theme=tokyonight
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaynurAhadov&theme=tokyonight)
 
 ---
 <!---
