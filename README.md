@@ -31,10 +31,7 @@ https://drive.google.com/drive/folders/17MJaRNf4g7pCiMtmoV6pGexIFfqDM76H
 
 Во время работы имел дело с:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="javascript" alt="javascript" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="javascript" alt="javascript" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="javascript" alt="javascript" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="javascript" alt="javascript" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 
 <!---
 SaynurAhadov/SaynurAhadov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
