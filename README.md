@@ -13,9 +13,9 @@
 
 Я начинающий веб Тестировщик и тестировщик мобильных/десктопных приложений <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с обучения в школе SkillFactory на направлении **"Инженер по ручному тестированию"**. Закончил обучение и надеюсь в скором времени начать работу тестировщиком.  
 
--⭐Сертификат и мои работы можно посмотреть на гуглдиске
+-⭐Сертификат об окончании обучения и мои работы можно посмотреть по ссылке 
 
-https://drive.google.com/drive/folders/17MJaRNf4g7pCiMtmoV6pGexIFfqDM76H
+https://drive.google.com/drive/folders/17MJaRNf4g7pCiMtmoV6pGexIFfqDM76H 
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
