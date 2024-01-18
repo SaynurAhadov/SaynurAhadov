@@ -23,15 +23,15 @@ https://drive.google.com/drive/folders/17MJaRNf4g7pCiMtmoV6pGexIFfqDM76H
 
 - 🙌 Работал с сферах подбора персонала, управления проектами в аусорсинге и аутстафинге, но решил поменять сферу деятельности 
 
-- 🧠 Учусь в школе SkillFactory на направлении **"Инженер по ручному тестированию"**
+- 🧠 Закончил обучение  в школе SkillFactory на направлении **"Инженер по ручному тестированию"**
 
-- 👨‍💻 I’m looking to collaborate on in testing mobile applications
+- 👨‍💻 Интересна деятельность связаная с тестированием мобильных приложений и мобильного ПО 
   
 ---
 
 Во время работы имел дело с:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="javascript" alt="javascript" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
 
 <!---
 SaynurAhadov/SaynurAhadov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
