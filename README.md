@@ -33,6 +33,8 @@ https://drive.google.com/drive/folders/17MJaRNf4g7pCiMtmoV6pGexIFfqDM76H
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
 
+---
+ 🙏 Спасибо что посетили мою страницу 🙏
 <!---
 SaynurAhadov/SaynurAhadov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
