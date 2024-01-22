@@ -15,7 +15,7 @@
 
 -⭐Сертификат об окончании обучения и примеры моих работ можно посмотреть по ссылке 
 
-https://drive.google.com/drive/folders/17MJaRNf4g7pCiMtmoV6pGexIFfqDM76H 
+-[Мой гугл диск](https://drive.google.com/drive/folders/17MJaRNf4g7pCiMtmoV6pGexIFfqDM76H)
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
